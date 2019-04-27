@@ -1,0 +1,62 @@
+/**
+ * Wireframe Layout Homework
+ **/
+
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+body {
+  font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+  color: #777;
+  background: #777;
+  width: 960px;
+  font-size: 18px;
+
+}
+
+header{
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #ebebeb;
+}
+
+nav{
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #ebebeb;
+  }
+
+#section{
+  float: left;
+  width: 495px;
+  color: #333;
+  background: #ebebeb;
+  height: 200px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+#article{
+  clear:both;
+  overflow: auto;
+  width: 24%;
+  height: 138px;
+  color: #ebebeb;
+  background: #777;
+  position: absolute;
+  margin-left: 18px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 5px;
+  }
+
+#h{
+  color: #333;
+  background: #ebebeb;
+  width: 450px;
+  padding: 2px;
+ 
